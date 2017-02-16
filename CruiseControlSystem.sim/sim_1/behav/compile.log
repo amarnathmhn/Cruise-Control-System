@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amarnath/Desktop/CRUISE_CONTROL_SYSTEM/CruiseControlSystem/CruiseControlSystem.srcs/sources_1/new/CruiseControl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CruiseControl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amarnath/Desktop/CRUISE_CONTROL_SYSTEM/CruiseControlSystem/CruiseControlSystem.srcs/sim_1/new/CruiseControl_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CruiseControl_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amarnath/Desktop/CRUISE_CONTROL_SYSTEM/CruiseControlSystem/CruiseControlSystem.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
